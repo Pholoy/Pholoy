@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oyekola Oluwasegun Philips!
 
-I'm a passionate learner with a background in **Agricultural Engineering** and a growing expertise in **data science**. Currently, I’m advancing my skills through the **IBM Data Science Professional Certificate course on Coursera** and the **3MTT Data Science Fellowship**, with a recent achievement in passing the **AI-900: Microsoft Azure AI Fundamentals** exam.
+I'm a passionate learner with a background in **Agricultural Engineering** and a growing expertise in **data science**. Currently, I’m advancing my skills through the **IBM Data Science Professional Certificate** course on **Coursera** and the **3MTT Data Science Fellowship**, with a recent achievement in passing the **AI-900: Microsoft Azure AI Fundamentals** exam.
 
 I’m driven to use technology to solve real-world problems, blending my technical foundation with interests in **AI**, **sustainability**, and **innovative writing**.
 
