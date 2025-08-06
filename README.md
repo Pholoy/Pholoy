@@ -14,7 +14,7 @@ Explored global COVID-19 data to uncover infection rate trends using Python, pan
 
 ### 💰 Global Salaries Analysis  
 Analyzed salary data by region and job role with Python and seaborn, generating charts to reveal disparities and insights into high-demand sectors.  
-🔗 [View on GitHub](https://github.com/Pholoy/3MTT_Portfolio/blob/main/Data_Science_Salary_Analysis-Copy1.ipynb)
+🔗 [View on GitHub](https://github.com/Pholoy/Global-Salaries-Analysis)
 
 ### 🌾 AgroIntel (Hackathon Project)  
 Contributed to a team effort analyzing agricultural data to optimize crop yields, focusing on data analysis and visualization design.  
